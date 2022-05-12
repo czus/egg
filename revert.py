@@ -1,4 +1,4 @@
-"""How to do an inversion of any kind of input using recursion..."""
+"""How to do an inversion of any string or list-type input using recursion..."""
 
 
 def rev(string):
@@ -14,3 +14,4 @@ def rev(string):
 
 
 print(rev("string"))
+print(rev([1,2,3]))
