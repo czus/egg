@@ -1,1 +1,1 @@
-[](/egg/slashgeegee.gif)
+![](/egg/slashgeegee.gif)
